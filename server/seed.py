@@ -24,3 +24,4 @@ fake = Faker()
 if __name__ == '__main__':
     print("Seeded database with example data")
 
+254710224989
